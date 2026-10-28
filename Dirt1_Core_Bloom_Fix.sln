@@ -1,0 +1,18 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dirt1_Core_Bloom_Fix", "src\Dirt1_Core_Bloom_Fix.vcxproj", "{5D4B1F0E-8A3C-4C2E-9B7A-2F61D0E1C301}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D4B1F0E-8A3C-4C2E-9B7A-2F61D0E1C301}.Debug|x86.ActiveCfg = Debug|Win32
+		{5D4B1F0E-8A3C-4C2E-9B7A-2F61D0E1C301}.Debug|x86.Build.0 = Debug|Win32
+		{5D4B1F0E-8A3C-4C2E-9B7A-2F61D0E1C301}.Release|x86.ActiveCfg = Release|Win32
+		{5D4B1F0E-8A3C-4C2E-9B7A-2F61D0E1C301}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+EndGlobal
